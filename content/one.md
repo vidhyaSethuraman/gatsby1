@@ -1,5 +1,5 @@
 ---
-Banner1: img/abstree.jpg
-Banner2: img/abspack.jpg
-Banner3: img/1.jpg
+Banner1: img/unlock_homepagepromotions_9sep.jpg
+Banner2: img/kbg_hp_11sep.jpg
+Banner3: img/promotion-banner.jpg
 ---

@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 import { graphql } from 'gatsby';
 
 import Layout from "../components/layout"
-import Image from "../components/image"
+
 import SEO from "../components/seo"
 
-const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
+
 
 const IndexPage = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
@@ -23,7 +23,9 @@ const IndexPage = (props) => {
   )
 }
 
-export default IndexPage;
+export default IndexPage
+
+
 
 export const query = graphql`
   query {

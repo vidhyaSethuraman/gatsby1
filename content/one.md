@@ -1,5 +1,5 @@
 ---
-Banner1: img/diwali-3.jpeg
-Banner2: img/budb.jpeg
-Banner3: img/diwali-3.jpeg
+Banner1: img/abstree.jpg
+Banner2: img/abspack.jpg
+Banner3: img/1.jpg
 ---

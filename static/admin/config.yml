@@ -7,13 +7,13 @@ public_folder: img
 
 
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: "Index Page"
+    name: "Index Page"
     files:
-      - label: "Home Page"
-        name: "home"
+      - label: "Banner 1 "
+        name: "Banner1 "
         file: "content/one.md"
         fields:
-          - {label: Banner1, name: Banner1, widget: image}
-          - {label: Banner2, name: Banner2, widget: image}
-          - {label: Banner3, name: Banner3, widget: image}
+          - {label: Image1, name: Banner1, widget: image}
+          - {label: Image2, name: Banner2, widget: image}
+          - {label: Image3, name: Banner3, widget: image}

@@ -13,6 +13,7 @@ collections:
       - label: "Home Page"
         name: "home"
         file: "content/home.md"
+        create: true
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro text, name: intro, widget: text}
